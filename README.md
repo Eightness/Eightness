@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Eightness
 - 👀 I’m interested in learning code.
-- 🌱 I’m currently learning Java.
+- Currently studying Software Development in Valencia, Spain.
+- 🌱 I’m learning Java, and have some experience with C# and Python.
+- I did study HTML and CSS.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me: albertlb08@gmail.com
 
