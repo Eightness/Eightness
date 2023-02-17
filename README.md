@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eightness
 - 👀 I’m interested in learning code.
-- 🌱 I’m currently learning C#, Java and Python.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me: albertlb08@gmail.com
 
