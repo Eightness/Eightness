@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/albert_lozano8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albert_lozano8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/albertlb08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertlb08" height="30" width="40" /></a>
-<a href="https://fb.com/albert lozano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albert lozano" height="30" width="40" /></a>
 <a href="https://instagram.com/albert_lozano8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albert_lozano8" height="30" width="40" /></a>
 </p>
 
