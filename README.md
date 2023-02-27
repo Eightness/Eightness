@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **albertlb08@gmail.com**
 
-- ⚡ Fun fact **I have a black belt in procrastination, but I always manage to get my work done on time.**
+- ⚡ Fun fact **I can be fluent in a programming language, but I struggle to speak in anything but sarcasm before noon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
