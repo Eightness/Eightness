@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert!</h1>
 <h3 align="center">I'm a software engineering student with a passion for coding, problem-solving and design patterns. I'm currently studying (mainly) Java as part of my coursework, and I'm always looking for opportunities to apply my skills in real-world projects.</h3>
 
-- 🔭 I’m currently studying [Java, C#, Python, Javascript, Kotlin, HTML, CSS](https://github.com/Eightness/1DAM-Programacion)
+- 🔭 I’m currently studying [Java, C#, Python, Javascript, HTML, CSS](https://github.com/Eightness/1DAM-Programacion)
 
 - 👯 I’m looking to collaborate on **Small personal projects**
 
