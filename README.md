@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albert!</h1>
+<h1 align="center">Hi, I'm Albert!</h1>
 <h3 align="center">I'm a software engineer with a passion for coding, problem-solving and design patterns. Always looking for opportunities to apply my skills in real-world projects.</h3>
 
 - 📫 How to reach me **albertlb08@gmail.com**
