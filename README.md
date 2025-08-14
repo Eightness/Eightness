@@ -6,10 +6,7 @@
 - ⚡ Fun fact **I can be fluent in a programming language, but I struggle to speak in anything but sarcasm before noon.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/albert_lozano8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albert_lozano8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/albertlb08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertlb08" height="30" width="40" /></a>
-<a href="https://instagram.com/albert_lozano8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albert_lozano8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
