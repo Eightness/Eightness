@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albert!</h1>
 <h3 align="center">I'm a software engineer with a passion for coding, problem-solving and design patterns. Always looking for opportunities to apply my skills in real-world projects.</h3>
 
-- 🔭 Currently coding with [Java (Spring Boot), Kotlin, C#, Python, Javascript](https://github.com/Eightness/1DAM-Programacion)
-
-- 👯 I’m looking to work as a **Java developer**
-
 - 📫 How to reach me **albertlb08@gmail.com**
 
 - ⚡ Fun fact **I can be fluent in a programming language, but I struggle to speak in anything but sarcasm before noon.**
